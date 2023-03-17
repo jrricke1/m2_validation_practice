@@ -1,2 +1,2 @@
 # m2_validation_practice
-## Author: Joseph Rickett
+Starter file for GIT215 Validation Practice Assignment
